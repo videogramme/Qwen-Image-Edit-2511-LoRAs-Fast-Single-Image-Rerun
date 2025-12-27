@@ -12,6 +12,14 @@
 - **Custom Theme**: OrangeRedTheme with gradients for a modern interface.
 - **Queueing Support**: Up to 30 concurrent jobs with error handling.
 
+---
+
+<img width="1571" height="785" alt="Screenshot 2025-12-27 at 12-21-58 Qwen-Image-Edit-2511-LoRAs-Fast - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/2d4386a0-db47-4586-83b0-8207e7d753fe" />
+
+<img width="1918" height="1172" alt="Screenshot 2025-12-27 at 12-22-29 Qwen-Image-Edit-2511-LoRAs-Fast - a Hugging Face Space by prithivMLmods" src="https://github.com/user-attachments/assets/55d0d8b8-7040-4165-9e04-8d2fb77f6992" />
+
+---
+
 **Note**: This is an experimental Space for the newer Qwen-Image-Edit-2511 model. For stable performance, consider the [Qwen-Image-Edit-2509 version](https://huggingface.co/spaces/prithivMLmods/Qwen-Image-Edit-2509-LoRAs-Fast).
 
 ## Prerequisites
