@@ -19,7 +19,23 @@
 			"file": "application/routes.php",
 			"settings":
 			{
-				"buffer_size": 4590,
+				"buffer_size": 4602,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bundles/scribe/routes.php",
+			"settings":
+			{
+				"buffer_size": 3917,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/wordpress/wp-config.php",
+			"settings":
+			{
+				"buffer_size": 4022,
 				"line_ending": "Unix"
 			}
 		},
@@ -32,7 +48,7 @@
 			}
 		},
 		{
-			"file": "application/views/new.blade.php",
+			"file": "application/views/new-album.blade.php",
 			"settings":
 			{
 				"buffer_size": 1806,
@@ -45,6 +61,23 @@
 			{
 				"buffer_size": 1000,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/drop100/drop100.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 2962,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/wamp/www/drop100/chemin wordpress",
+			"settings":
+			{
+				"buffer_size": 162,
+				"line_ending": "Windows",
+				"name": "/wp-admin/edit.php"
 			}
 		}
 	],
@@ -143,7 +176,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -151,15 +184,15 @@
 					"file": "application/routes.php",
 					"settings":
 					{
-						"buffer_size": 4590,
+						"buffer_size": 4602,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								245,
-								245
+								1070,
+								1070
 							]
 						],
 						"settings":
@@ -176,6 +209,59 @@
 				},
 				{
 					"buffer": 1,
+					"file": "bundles/scribe/routes.php",
+					"settings":
+					{
+						"buffer_size": 3917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1754.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/wamp/www/wordpress/wp-config.php",
+					"settings":
+					{
+						"buffer_size": 4022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1028,
+								1028
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "application/views/home.blade.php",
 					"settings":
 					{
@@ -203,8 +289,8 @@
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "application/views/new.blade.php",
+					"buffer": 4,
+					"file": "application/views/new-album.blade.php",
 					"settings":
 					{
 						"buffer_size": 1806,
@@ -231,7 +317,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 5,
 					"file": "application/controllers/home.php",
 					"settings":
 					{
@@ -250,6 +336,60 @@
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/wamp/www/drop100/drop100.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 2962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/wamp/www/drop100/chemin wordpress",
+					"settings":
+					{
+						"buffer_size": 162,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								118,
+								118
+							]
+						],
+						"settings":
+						{
+							"auto_name": "/wp-admin/edit.php",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

@@ -14,9 +14,9 @@ Route::get('admin', array('before' => 'auth', 'do' => function() {
 
 
 // Route pour al page admin/new
-Route::get('admin/new', array('before' => 'auth', 'do' => function() {
+Route::get('admin/new-album', array('before' => 'auth', 'do' => function() {
 	$user = Auth::user();
-    return View::make('new')->with('user', $user);
+    return View::make('new-album')->with('user', $user);
 }));
 
 /* grouping routes 
